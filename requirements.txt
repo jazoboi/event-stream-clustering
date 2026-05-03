@@ -1,0 +1,16 @@
+# Spark / Databricks
+pyspark==3.5.1
+delta-spark==3.2.0
+databricks-sdk==0.28.0
+
+# ML
+scikit-learn==1.5.0
+numpy==1.26.4
+pandas==2.2.2
+
+# Monitoring
+prometheus-client==0.20.0
+
+# Utilities
+pyyaml==6.0.1
+structlog==24.2.0
